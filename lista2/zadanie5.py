@@ -1,0 +1,11 @@
+a=input()
+half=len(a)>>1
+b=a[:half]
+c=a[half:]
+if(len(a)%2==0):
+    print(b+'kombajn'+c)
+else:
+    d=len(a)+1>>1
+    o=a[:d-1]
+    p=a[d:]
+    print(o+'kombajn'+p)
