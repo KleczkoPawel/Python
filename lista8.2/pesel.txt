@@ -1,0 +1,1 @@
+[1,2,3,4,5,6,7,8,9,0,0]rok : 2012 ;miesiac : 14;dzien : 56;plec : Kobietarok : 2012 ;miesiac : 14;dzien : 56;plec : Kobieta
